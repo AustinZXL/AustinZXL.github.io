@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/posts/672a/</loc>
+    
+    <lastmod>2021-03-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/index.html</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/googlecd98aac2873d7ecd.html</loc>
+    
+    <lastmod>2021-01-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/baidu_verify_code-7U5hroPwHI.html</loc>
+    
+    <lastmod>2021-01-30</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>http://example.com/tags/FYP/</loc>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/WebApp/</loc>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Streamlit/</loc>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/FYP-Record/</loc>
+    <lastmod>2023-01-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
