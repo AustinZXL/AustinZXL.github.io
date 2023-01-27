@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/posts/672a/</loc>
     
-    <lastmod>2021-03-10</lastmod>
+    <lastmod>2023-01-27</lastmod>
     
   </url>
   
@@ -53,21 +53,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/FYP/</loc>
+    <loc>http://example.com/tags/Adobe-Effect/</loc>
     <lastmod>2023-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/WebApp/</loc>
-    <lastmod>2023-01-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Streamlit/</loc>
+    <loc>http://example.com/tags/Tesla/</loc>
     <lastmod>2023-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,7 +69,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/FYP-Record/</loc>
+    <loc>http://example.com/categories/%E9%A1%B9%E7%9B%AE%E5%B1%95%E7%A4%BA/</loc>
     <lastmod>2023-01-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
